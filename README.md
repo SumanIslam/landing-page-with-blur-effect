@@ -1,5 +1,3 @@
-# landing-page-with-blur-effect-clone
-this is nice landing page website with blur effect
+## website link
+Click [here](https://practical-wozniak-e5151d.netlify.com) to live preview the website
 
-#website link
-https://practical-wozniak-e5151d.netlify.com
